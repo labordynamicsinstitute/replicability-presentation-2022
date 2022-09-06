@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Transparency and Reproducibility in Economics:
+  Lessons learned from 1,000 papers
+message: Use this citation when referencing the presentation
+type: dataset
+authors:
+  - given-names: Lars
+    family-names: Vilhuber
+    email: lars.vilhuber@cornell.edu
+    affiliation: Cornell University
+    orcid: 'https://orcid.org/0000-0001-5733-8932'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6787998
+    description: DOI for all versions
+repository-code: >-
+  https://github.com/labordynamicsinstitute/replicability-presentation-2022/
+abstract: >-
+  The American Economic Association's Data Editor has
+  reviewed more than 1,000 empirical articles since
+  July 2019, and worked with authors to improve the
+  reproducibility of their research compendia
+  (replication packages). Some lessons emerge from
+  this work. In this presentation, I will focus on
+  lessons for young scholars (students and young
+  researchers), on possible lessons even for more
+  seasoned researchers. Students and researchers are
+  embedded within institutions, and I will discuss
+  the kind of support that institutions
+  (universities, data providers, compute services)
+  should be providing to students, faculty, and
+  researchers, for a robust, reproducible, and
+  transparent science enterprise.
+license: CC-BY-4.0
+date-released: '2022-09-05'
