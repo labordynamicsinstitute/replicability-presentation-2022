@@ -4,7 +4,7 @@
 cff-version: 1.2.0
 title: >-
   Transparency and Reproducibility in Economics:
-  Lessons learned from 1,000 papers
+  Lessons learned from 1,000 papers (Spark talk)
 message: Use this citation when referencing the presentation
 type: dataset
 authors:
@@ -36,4 +36,4 @@ abstract: >-
   researchers, for a robust, reproducible, and
   transparent science enterprise.
 license: CC-BY-4.0
-date-released: '2022-09-05'
+date-released: '2022-12-02'
