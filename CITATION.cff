@@ -4,7 +4,7 @@
 cff-version: 1.2.0
 title: >-
   Transparency and Reproducibility in Economics:
-  Context and Lessons learned from 1,000 papers
+  Lessons learned from 1,000 papers
 message: The opinions expressed in this talk are solely the authors, and do not represent the views of the U.S. Census Bureau, the American Economic Association, or any of the funding agencies. 
 type: dataset
 authors:
@@ -37,4 +37,4 @@ abstract: >-
   transparent science enterprise. This particular presentation has
   been customized to the specific context of the World Bank's Reproducible Research Fundamentals course.
 license: CC-BY-4.0
-date-released: '2022-12-02'
+date-released: '2022-12-16'
