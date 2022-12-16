@@ -4,7 +4,7 @@
 cff-version: 1.2.0
 title: >-
   Transparency and Reproducibility in Economics:
-  Lessons learned from 1,000 papers
+  Context and Lessons learned from 1,000 papers
 message: Use this citation when referencing the presentation
 type: dataset
 authors:
@@ -34,6 +34,7 @@ abstract: >-
   (universities, data providers, compute services)
   should be providing to students, faculty, and
   researchers, for a robust, reproducible, and
-  transparent science enterprise.
+  transparent science enterprise. This particular presentation has
+  been customized to the specific context of the World Bank's Reproducible Research Fundamentals course.
 license: CC-BY-4.0
-date-released: '2022-09-05'
+date-released: '2022-10-03'
